@@ -1,4 +1,4 @@
-# Kodluyoruz
+# Kodluyoruz Odev
 Vücut Kitle 
 import java.util.Scanner;
 public class Main {
